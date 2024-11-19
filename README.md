@@ -1,2 +1,0 @@
-# fsm-reports-test
-SketchTest
